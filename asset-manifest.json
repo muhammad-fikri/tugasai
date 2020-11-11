@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tugasai/static/css/main.3cbc51fa.chunk.css",
+    "main.js": "/tugasai/static/js/main.236ea926.chunk.js",
+    "main.js.map": "/tugasai/static/js/main.236ea926.chunk.js.map",
+    "runtime-main.js": "/tugasai/static/js/runtime-main.82ca3099.js",
+    "runtime-main.js.map": "/tugasai/static/js/runtime-main.82ca3099.js.map",
+    "static/css/2.06689f82.chunk.css": "/tugasai/static/css/2.06689f82.chunk.css",
+    "static/js/2.fdc808f8.chunk.js": "/tugasai/static/js/2.fdc808f8.chunk.js",
+    "static/js/2.fdc808f8.chunk.js.map": "/tugasai/static/js/2.fdc808f8.chunk.js.map",
+    "index.html": "/tugasai/index.html",
+    "static/css/2.06689f82.chunk.css.map": "/tugasai/static/css/2.06689f82.chunk.css.map",
+    "static/css/main.3cbc51fa.chunk.css.map": "/tugasai/static/css/main.3cbc51fa.chunk.css.map",
+    "static/js/2.fdc808f8.chunk.js.LICENSE.txt": "/tugasai/static/js/2.fdc808f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82ca3099.js",
+    "static/css/2.06689f82.chunk.css",
+    "static/js/2.fdc808f8.chunk.js",
+    "static/css/main.3cbc51fa.chunk.css",
+    "static/js/main.236ea926.chunk.js"
+  ]
+}
